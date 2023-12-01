@@ -7,11 +7,12 @@ package com.mycompany.classesandobjectsexcercersies;
 
 /**
  *
- * @author hussa
+ * @author hussam
  */
 public class ClassesAndObjectsExcercersies {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("how are you?");
     }
 }
