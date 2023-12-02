@@ -14,7 +14,10 @@ public class car {
     String color;
     int numWhells;
     
+    public void drive(double direction){
     
+        System.out.printf("the %s %s is driving at %f degrees",color,make,direction);
+    }
     
     
     
